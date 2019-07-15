@@ -2,7 +2,6 @@
 
 [Youtube tutorial:](https://www.youtube.com/watch?v=qai2o8EKY0M) 
 
-Pipeline: ![enter image description here](/Users/raj/Desktop/Screenshot%5C%202019-07-15%5C%20at%5C%201.25.37%5C%20PM.png)
 |  Runners Tested with |
 |--|
 |  DatflowRunner|
