@@ -57,7 +57,7 @@ mvn compile -e exec:java \
 
 **---------------------------------------------------------------------------**
 
-**Using DirectRunner
+## Using DirectRunner
 
 *====Day 1
 
