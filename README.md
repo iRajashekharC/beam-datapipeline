@@ -1,6 +1,6 @@
 
 
-[Youtube tutorial:](https://www.youtube.com/watch?v=qai2o8EKY0M) 
+[Here is the detailed Youtube tutorial:](https://www.youtube.com/watch?v=qai2o8EKY0M) 
 
 |  Runners Tested with |
 |--|
