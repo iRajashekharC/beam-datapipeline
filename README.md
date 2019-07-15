@@ -2,7 +2,7 @@
 
 [Here is the detailed Youtube tutorial:](https://www.youtube.com/watch?v=qai2o8EKY0M) 
 
-|  Runners Tested with |
+|  Tested Runners|
 |--|
 |  DatflowRunner|
 |  SparkRunner|
